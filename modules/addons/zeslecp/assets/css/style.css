@@ -1,0 +1,69 @@
+.zeslecp table.datatable td {
+    text-align: center !important;
+}
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #286090;
+    border-color: #204d74;
+}
+.btn-outline-primary {
+    color: #2e6da4;
+    border-color: #2e6da4;
+    padding: 2px 12px;
+}
+.zeslecpUserSuspend, .zeslecpUserTrash, .zeslecpUserUnsuspend {
+    padding: 2px 12px;
+}
+.upperPart, .lowerPart  {
+    padding: 10px;
+    background: #f8f8fb;
+    border-radius: 3px;
+    border: 1px solid #eee;
+}
+.error1, .error2, .error3,
+.error4, .error5, .error6,
+.error7, .error8, .error9,
+.error10, .error11, .error12,
+.error13, .error14, .error15,
+.error16, .error17, .error18,
+.eerror1, .eerror2, .eerror3,
+.eerror4, .eerror5, .eerror6,
+.eerror7, .eerror8, .eerror9,
+.eerror10, .eerror11, .eerror12,
+.eerror13, .eerror14, .eerror15,
+.eerror16, .eerror17, .eerror18 {
+    color: #f46a6a;
+}
+/* For Pagination Links by CodexWorld */
+div.pagination {
+	font-family: 'Open Sans',sans-serif;
+	padding: 5px;
+	margin:7px;
+        font-size: 12px;
+}
+
+div.pagination a {
+	margin: 2px;
+	padding: 0.5em 0.64em 0.43em 0.64em;
+	background-color: #1f4a8a;
+	text-decoration: none; /* no underline */
+	color: #fff;
+}
+div.pagination a:hover, div.pagination a:active {
+	padding: 0.5em 0.64em 0.43em 0.64em;
+	margin: 2px;
+	background-color: #EC971F;
+	color: #fff;
+}
+div.pagination span.current {
+    padding: 0.5em 0.64em 0.43em 0.64em;
+    margin: 2px;
+    background-color: #f6efcc;
+    color: #6d643c;
+}
+div.pagination span.disabled {
+    display:none;
+}
+.print-button {
+    text-align: center;
+}
